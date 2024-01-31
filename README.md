@@ -23,4 +23,4 @@ I'm Falah Hasbi Assidiqi, a passionate Apple Development (but sometimes i create
 - 📫 [Email](mailto:falahhasbiassidiqi@gmail.com)
 - 🐦 [Twitter](https://twitter.com/fhassidiqi)
 - 💼 [LinkedIn](https://www.linkedin.com/in/falahhasbiassidiqi/)
-- 📄 [Medium] (https://medium.com/@falahhasbiassidiqi)
+- 📄 [Medium](https://medium.com/@falahhasbiassidiqi)
