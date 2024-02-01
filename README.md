@@ -6,7 +6,7 @@ I'm Falah Hasbi Assidiqi, a passionate Apple Development (but sometimes i create
 
 🌱 I’m currently learning UIKit, VIPER, and Core Animation.
 
-💼 Working and learning at Apple Developer Academy @Binus.
+💼 Graduated from Apple Developer Academy @Binus and now looking forward to new opportunity.
 
 👨‍💻 I enjoy working with:
 
@@ -15,7 +15,7 @@ I'm Falah Hasbi Assidiqi, a passionate Apple Development (but sometimes i create
 | **Languages:** Swift.                   | **Languages:** C, C++.                      |
 | **Frameworks:** SwiftUI, UIKit.         | **Microcontroller:** Arduino, ESP32, ESP8266.|
 | **Apple Technologies:** Mapkit, CreateML, CoreML, HealthKit, etc. | **Tools:** PlatformIO, Arduino IDE.       |
-| **Tools:** Xcode, Cocoapods.            |                                             |
+| **Tools:** Xcode, SPM, Cocoapods.            |                                             |
 
 
 ### Let's Connect
@@ -24,3 +24,4 @@ I'm Falah Hasbi Assidiqi, a passionate Apple Development (but sometimes i create
 - 🐦 [Twitter](https://twitter.com/fhassidiqi)
 - 💼 [LinkedIn](https://www.linkedin.com/in/falahhasbiassidiqi/)
 - 📄 [Medium](https://medium.com/@falahhasbiassidiqi)
+- 🛠️ [Portfolio](https://bit.ly/portfolio-fhassidiqi)
