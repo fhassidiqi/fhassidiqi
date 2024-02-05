@@ -15,7 +15,7 @@ I'm Falah Hasbi Assidiqi, a passionate Apple Development (but sometimes i create
 | **Apple Technologies:** Mapkit, CreateML, CoreML, HealthKit, etc. | **Tools:** PlatformIO, Arduino IDE.       |
 | **Tools:** Xcode, SPM, Cocoapods.            |                                             |
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=fhassidiqi&theme=highcontrast&show_icons=true&count_private=true)
 
 ### Let's Connect
 
